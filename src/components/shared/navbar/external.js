@@ -28,7 +28,8 @@ const useStyles = makeStyles(theme => ({
     }
   },
   appbar: {
-    background: '#FFF'
+    background: '#FFF',
+    position: 'inherit'
   }
 }));
 
